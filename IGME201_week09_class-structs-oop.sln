@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGME201_week09_class-structs-oop", "IGME201_week09_class-structs-oop\IGME201_week09_class-structs-oop.csproj", "{DB682708-DC95-4FE0-AC01-D3AD5219827A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB682708-DC95-4FE0-AC01-D3AD5219827A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB682708-DC95-4FE0-AC01-D3AD5219827A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB682708-DC95-4FE0-AC01-D3AD5219827A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB682708-DC95-4FE0-AC01-D3AD5219827A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAD0E73A-10D6-406D-AFA1-C62BE88280FF}
+	EndGlobalSection
+EndGlobal
